@@ -1,0 +1,29 @@
+body{
+    color: black;
+    background-color:blueviolet;
+    font-family:papyrus, fantasy;
+    font-size: 1.2em;
+}
+h1{
+    color:white;
+    font-family: cursive;
+}
+
+
+h2{
+    color: green;
+}
+#css-anatomy-heading{
+    color:black;
+}
+.underline{
+    text-decoration:underline;
+}
+.bold{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+#intro-ps{
+    font-style:italic;
+    font-size:0.8em;
+}
